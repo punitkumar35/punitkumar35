@@ -436,7 +436,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://tryhackme.com/p/Punitkumar.Naik">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
