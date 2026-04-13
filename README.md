@@ -42,7 +42,7 @@
 
 <!-- Animated Gradient Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2000&pause=800&color=1A6F9F&center=true&vCenter=true&width=900&lines=🔐+Security+Operations+Center+Specialist+🔐;🛡️+Threat+Detection+%7C+Incident+Response+%7C+Vulnerability+Assessment+🛡️;📡+SIEM+%7C+EDR+%7C+NDR+%7C+SOAR+📡;⚡+MITRE+ATT%26CK+%7C+Atomic+Red+Teaming+⚡" />
+ 
 </p>
 
 <hr/>
