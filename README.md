@@ -13,16 +13,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=500&color=1A6F9F&center=true&vCenter=true&width=800&lines=SOC+Analyst+%7C+Cyber+Security+Professional;Certified+Ethical+Hacker+(CEH+v12);Google+Cyber+Security+Certified;5%2B+Years+Hands-on+Experience;Blue+Teaming+%7C+Red+Teaming+%7C+Threat+Hunting" alt="Typing Animation" />
 </p>
 
-<!-- Animated Social Links -->
+<!-- Social Links -->
 <p align="center">
   <a href="https://linkedin.com/in/punitkumar-naik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:punithnaik01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=1A2B4C" />
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=punitkumar-naik&label=Profile%20Views&color=1A6F9F&style=flat-square&labelColor=0A1A2B" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=punitkumar-naik&label=Profile%20Views&color=1A6F9F&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Active%20Job%20Seeker-00C853?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-SOC%20Analyst-FF6B35?style=flat-square" />
 </p>
@@ -48,23 +48,22 @@
 <hr/>
 
 <!-- ==================== PROFESSIONAL SUMMARY ==================== -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="30" height="30" />
-  Professional Summary
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="30" height="30" />
-</h2>
+<h2 align="center">📋 Professional Summary</h2>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=500&color=FFFFFF&background=1A6F9F&center=true&vCenter=true&width=900&lines=Certified+Ethical+Hacker+and+Google+Certified+Cybersecurity+Professional;5%2B+Years+Hands-on+Experience+|+2%2B+Years+Work+Experience+in+SOC+Operations;Blue+Teaming+%26+Red+Teaming+|+Vulnerability+Assessments+|+Incident+Response;Proficient+in+Wazuh%2C+Splunk%2C+Zeek%2C+Suricata%2C+and+SIEM+Tools" />
+    <td align="center" bgcolor="#1A6F9F">
+      <b><font color="white">Certified Ethical Hacker (CEH v12) | Google Certified Cybersecurity Professional</font></b><br/>
+      <b><font color="white">5+ Years Hands-on Experience | 2+ Years Work Experience in SOC Operations</font></b><br/>
+      <b><font color="white">Blue Teaming & Red Teaming | Vulnerability Assessments | Incident Response</font></b><br/>
+      <b><font color="white">Proficient in Wazuh, Splunk, Zeek, Suricata, and SIEM Tools</font></b>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ==================== CONTACT & LOCATION ==================== -->
+<!-- Contact & Location -->
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-FF6B35?style=flat-square&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Phone-%2B91%209113610764-00C853?style=flat-square&logo=whatsapp&logoColor=white" />
@@ -74,67 +73,64 @@
 <hr/>
 
 <!-- ==================== TECHNICAL PROFICIENCY ==================== -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" />
-  Technical Proficiency
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" />
-</h2>
+<h2 align="center">⚙️ Technical Proficiency</h2>
 
-<!-- Core Competencies Table -->
 <h3 align="center">🎯 Core Competencies</h3>
 
 <table align="center" width="90%">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/SOC%20Automation-1A6F9F?style=flat-square&logo=automation&logoColor=white" /><br/>
+    <td align="center" width="33%" bgcolor="#f0f4f8">
+      <b>SOC Automation</b><br/>
       <sub>Automated Security Workflows</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Threat%20Hunting-FF6B35?style=flat-square&logo=bug&logoColor=white" /><br/>
+    <td align="center" width="33%" bgcolor="#f0f4f8">
+      <b>Threat Hunting</b><br/>
       <sub>Proactive Threat Detection</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Incident%20Response-00C853?style=flat-square&logo=alert&logoColor=white" /><br/>
+    <td align="center" width="33%" bgcolor="#f0f4f8">
+      <b>Incident Response</b><br/>
       <sub>IR Planning & Execution</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Vulnerability%20Assessment-9C27B0?style=flat-square&logo=security&logoColor=white" /><br/>
+    <td align="center" bgcolor="#f0f4f8">
+      <b>Vulnerability Assessment</b><br/>
       <sub>VA & Penetration Testing</sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SIEM%20Management-0078D4?style=flat-square&logo=elastic&logoColor=white" /><br/>
+    <td align="center" bgcolor="#f0f4f8">
+      <b>SIEM Management</b><br/>
       <sub>Security Event Monitoring</sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Network%20Defense-E91E63?style=flat-square&logo=cisco&logoColor=white" /><br/>
+    <td align="center" bgcolor="#f0f4f8">
+      <b>Network Defense</b><br/>
       <sub>Firewall & IDS/IPS</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Linux%20Admin-4EAA25?style=flat-square&logo=linux&logoColor=white" /><br/>
+    <td align="center" bgcolor="#f0f4f8">
+      <b>Linux Administration</b><br/>
       <sub>System Administration</sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF9800?style=flat-square&logo=mitre&logoColor=white" /><br/>
+    <td align="center" bgcolor="#f0f4f8">
+      <b>MITRE ATT&CK</b><br/>
       <sub>Attack Framework Mapping</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/GRC%20%26%20Compliance-673AB7?style=flat-square&logo=checkmarx&logoColor=white" /><br/>
+     </td>
+    <td align="center" bgcolor="#f0f4f8">
+      <b>GRC & Compliance</b><br/>
       <sub>ISO Standards & DLP</sub>
-    </td>
+     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Technologies & Tools with Icons -->
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,aws,azure,cloudflare,elasticsearch,py,bash,cpp,js,php,mysql" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
 <table align="center" width="90%">
@@ -145,62 +141,48 @@
   <tr>
     <td align="center"><b>SIEM</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
-      <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-      <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+      <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white" />
+      <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Network Monitoring</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-      <img src="https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logo=zeek&logoColor=white" />
-      <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
-      <img src="https://img.shields.io/badge/RITA-FF6B6B?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zeek-777BB4?style=flat-square&logo=zeek&logoColor=white" />
+      <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logo=suricata&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Endpoint Security</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
-      <img src="https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Wazuh_XDR-005571?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=flat-square&logo=microsoft&logoColor=white" />
+      <img src="https://img.shields.io/badge/Velociraptor-4B275F?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Cloud Platforms</b></td>
+    <td align="center"><b>Pentesting</b></td>
     <td>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Pentesting & VAPT</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-      <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=flat-square&logo=metasploit&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Frameworks</b></td>
     <td>
-      <img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF9800?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/NIST-4A4A4A?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/ISO%2027001-003366?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF9800?style=flat-square" />
+      <img src="https://img.shields.io/badge/NIST-4A4A4A?style=flat-square" />
+      <img src="https://img.shields.io/badge/ISO%2027001-003366?style=flat-square" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Programming Languages -->
 <h3 align="center">💻 Programming Languages</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punitkumar-naik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -216,13 +198,8 @@
 <hr/>
 
 <!-- ==================== WORK EXPERIENCE ==================== -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Briefcase.png" alt="Briefcase" width="30" height="30" />
-  Work Experience
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Briefcase.png" alt="Briefcase" width="30" height="30" />
-</h2>
+<h2 align="center">💼 Work Experience</h2>
 
-<!-- Experience Cards -->
 <table align="center" width="90%">
   <tr>
     <td width="50%" valign="top">
@@ -265,118 +242,71 @@
 <hr/>
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" />
-  Featured Projects
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" />
-</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<!-- Project 1 -->
 <details open>
 <summary><b>📁 Corporate Active Directory Simulation Lab</b></summary>
 <br/>
-<table>
-  <tr>
-    <td width="60%">
-      <b>Deep study of Windows Architecture in Corporate World</b><br/><br/>
-      <ul>
-        <li>✅ Simulated Active Directory and instrumented endpoints with Splunk</li>
-        <li>✅ Experimented with <b>Atomic Red Teaming</b> and <b>MITRE ATT&CK Framework</b></li>
-        <li>✅ Detected and analyzed telemetry produced by security events</li>
-        <li>✅ Enterprise-grade AD simulation with realistic configurations</li>
-      </ul>
-    </td>
-    <td align="center" width="40%">
-      <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF9800?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+
+| Feature | Description |
+|---------|-------------|
+| **Active Directory** | Simulated enterprise AD environment with realistic configurations |
+| **Splunk Integration** | Instrumented endpoints with Splunk for comprehensive logging |
+| **Red Teaming** | Experimented with Atomic Red Teaming techniques |
+| **MITRE ATT&CK** | Mapped detections to MITRE ATT&CK Framework |
+| **Telemetry Analysis** | Detected and analyzed security event telemetry |
+
 </details>
 
 <br/>
 
-<!-- Project 2 -->
 <details open>
 <summary><b>🤖 SOC Automation Lab [with WAZUH]</b></summary>
 <br/>
-<table>
-  <tr>
-    <td width="60%">
-      <b>XDR & EDR implementation for small-scale companies with budget-friendly maintenance</b><br/><br/>
-      <ul>
-        <li>✅ Wazuh integration with <b>MITRE ATT&CK Framework</b></li>
-        <li>✅ Real-time data ingestion and endpoint security monitoring</li>
-        <li>✅ Security automation with <b>Shuffle SOAR</b> + <b>TheHive case management</b></li>
-        <li>✅ Scripting and automation for threat mitigation</li>
-      </ul>
-    </td>
-    <td align="center" width="40%">
-      <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/SOAR-FF6B35?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/TheHive-4B275F?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+
+| Feature | Description |
+|---------|-------------|
+| **Endpoint Security** | Wazuh integration for comprehensive endpoint protection (XDR/EDR) |
+| **MITRE Integration** | Wazuh integration with MITRE ATT&CK Framework |
+| **Real-time Monitoring** | Real-time data ingestion and alerting |
+| **SOAR Automation** | Security automation with Shuffle SOAR |
+| **Case Management** | Incident tracking with TheHive |
+| **Scripting** | Automation scripts for threat mitigation |
+
 </details>
 
 <br/>
 
-<!-- Project 3 -->
 <details open>
 <summary><b>🌐 Detection Lab & SOC Automation Project</b></summary>
 <br/>
-<table>
-  <tr>
-    <td width="60%">
-      <b>Comprehensive security monitoring and incident response lab environment</b><br/><br/>
-      <ul>
-        <li>✅ Detection Engineering with custom detection rules</li>
-        <li>✅ End-to-end incident response playbooks</li>
-        <li>✅ Proactive threat hunting exercises</li>
-        <li>✅ Integration with multiple SIEM platforms</li>
-      </ul>
-    </td>
-    <td align="center" width="40%">
-      <img src="https://img.shields.io/badge/Detection%20Lab-00C853?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/Incident%20Response-0078D4?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/Threat%20Hunting-FF6B35?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+
+| Feature | Description |
+|---------|-------------|
+| **Detection Engineering** | Custom detection rules and alerting |
+| **Incident Response** | End-to-end incident response playbooks |
+| **Threat Hunting** | Proactive threat hunting exercises |
+| **SIEM Integration** | Integration with multiple SIEM platforms |
+
 </details>
 
 <hr/>
 
 <!-- ==================== CERTIFICATIONS ==================== -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Ribbon.png" alt="Ribbon" width="30" height="30" />
-  Certifications
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Ribbon.png" alt="Ribbon" width="30" height="30" />
-</h2>
+<h2 align="center">📜 Certifications</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CEH%20v12-Certified%20Ethical%20Hacker-1A2B4C?style=for-the-badge&logo=ethical-hacker&logoColor=white&labelColor=2C5F8A" />
+  <img src="https://img.shields.io/badge/CEH%20v12-Certified%20Ethical%20Hacker-1A2B4C?style=for-the-badge&logo=ethical-hacker&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-Cyber%20Security-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/TryHackMe-Offensive%20Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeRed-Web%20VAPT-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Internshala-Web%20VAPT-2C7A4D?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Red-Certificate-FF0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Offensive%20Security-TryHackMe-000000?style=for-the-badge" />
-</p>
-
 <hr/>
 
 <!-- ==================== EDUCATION ==================== -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" />
-  Education
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" />
-</h2>
+<h2 align="center">🎓 Education</h2>
 
 <table align="center" width="90%">
   <tr>
@@ -418,11 +348,7 @@
 <hr/>
 
 <!-- ==================== SKILLS MATRIX ==================== -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" />
-  Skills Matrix
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" />
-</h2>
+<h2 align="center">📊 Skills Matrix</h2>
 
 <table align="center" width="90%">
   <tr>
@@ -432,32 +358,32 @@
   </tr>
   <tr>
     <td>SIEM Operations</td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>████████████████████ 100%</td>
     <td>Splunk, Wazuh, Elastic</td>
   </tr>
   <tr>
     <td>Incident Response</td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>████████████████████ 100%</td>
     <td>TheHive, SOAR</td>
   </tr>
   <tr>
     <td>Threat Hunting</td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>████████████████████ 100%</td>
     <td>Zeek, Suricata, RITA</td>
   </tr>
   <tr>
     <td>Vulnerability Assessment</td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>████████████████████ 100%</td>
     <td>Burp Suite, Manual Testing</td>
   </tr>
   <tr>
     <td>Network Security</td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>████████████████████ 100%</td>
     <td>Wireshark, Cisco</td>
   </tr>
   <tr>
     <td>Cloud Security</td>
-    <td>⭐⭐⭐⭐</td>
+    <td>████████████████░░░░ 85%</td>
     <td>AWS, Azure</td>
   </tr>
 </table>
@@ -465,29 +391,17 @@
 <hr/>
 
 <!-- ==================== GITHUB STATS ==================== -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" />
-  GitHub Analytics
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" />
-</h2>
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=punitkumar-naik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&icon_color=1A6F9F&title_color=1A6F9F" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punitkumar-naik&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A6F9F&ring=1A6F9F&fire=FF6B35" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punitkumar-naik&theme=tokyonight" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=punitkumar-naik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punitkumar-naik&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <hr/>
 
 <!-- ==================== LANGUAGES & HOBBIES ==================== -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="30" height="30" />
-  Languages & Hobbies
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="30" height="30" />
-</h2>
+<h2 align="center">🌐 Languages & Hobbies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/English-Fluent-2E8B57?style=for-the-badge&logo=duolingo&logoColor=white" />
@@ -496,41 +410,37 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎮%20CTF%20Challenges-4A4A4A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📚%20Security%20Research-1A6F9F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖%20Automation-008000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌐%20Open%20Source-FF6600?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯%20Bug%20Bounty-FF0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CTF%20Challenges-4A4A4A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security%20Research-1A6F9F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-008000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bug%20Bounty-FF0000?style=for-the-badge" />
 </p>
 
 <hr/>
 
 <!-- ==================== WEEKLY BREAKDOWN ==================== -->
-<h2 align="center">📊 Weekly Development Breakdown</h2>
+<h2 align="center">⏱️ Weekly Focus Areas</h2>
 
 <p align="center">
-  <img src="https://progress-bar.dev/85/?title=Security%20Monitoring&width=400&color=1A6F9F" /><br/>
-  <img src="https://progress-bar.dev/82/?title=Threat%20Hunting&width=400&color=FF6B35" /><br/>
-  <img src="https://progress-bar.dev/78/?title=Vulnerability%20Testing&width=400&color=00C853" /><br/>
-  <img src="https://progress-bar.dev/75/?title=Scripting%20%26%20Automation&width=400&color=9C27B0" /><br/>
-  <img src="https://progress-bar.dev/65/?title=Documentation&width=400&color=FF9800" />
+  🔐 Security Monitoring: ████████████████████ 85%<br/>
+  🎯 Threat Hunting: ████████████████████ 82%<br/>
+  🔍 Vulnerability Testing: ███████████████████ 78%<br/>
+  🤖 Scripting & Automation: ██████████████████ 75%<br/>
+  📝 Documentation: ███████████████ 65%
 </p>
 
 <hr/>
 
 <!-- ==================== CONNECT WITH ME ==================== -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="30" height="30" />
-  Let's Connect
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="30" height="30" />
-</h2>
+<h2 align="center">🔗 Let's Connect</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/punitkumar-naik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:punithnaik01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -544,10 +454,6 @@
 
 <!-- ==================== FOOTER ==================== -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2b3d,100:1a4a6f&height=100&section=footer" width="100%" />
 </p>
 
@@ -557,7 +463,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Shield.png" alt="Shield" width="20" height="20" />
   <b>Stay Secure. Stay Vigilant.</b>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Shield.png" alt="Shield" width="20" height="20" />
 </p>
