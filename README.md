@@ -1,53 +1,40 @@
-# Hello, I'm Punitkumar Naik
-<a href="https://linkedin.com/in/punitkumar-naik/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- Header with animated typing effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1A6F9F&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Punitkumar+Naik+%F0%9F%91%8B;SOC+Analyst+%7C+Cyber+Security+Professional;CEH+v12+Certified+%F0%9F%94%92;5%2B+Years+Hands-on+Experience;Threat+Hunter+%7C+Incident+Responder" alt="Typing SVG" />
+</p>
 
-I am a recent Post graduate with a profound interest in technology and a dedication to analysing digital threats and remediate them.
+<p align="center">
+  <a href="https://linkedin.com/in/punitkumar-naik/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:punithnaik01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-## Objective
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=punitkumar-naik&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
-## Skills
+## 🎯 Professional Objective
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+> *"My journey in computer science has led me to develop a passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst."*
 
-## Tools
+---
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## 📊 Professional Summary
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    
-</div>
-
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/Google-Certification-brightgreen?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-TryHackMe-000000?style=for-the-badge&logo=TryHackMe" />
-<img src="https://img.shields.io/badge/Udemy-Cybersecurity-9cf?logo=udemy&logoColor=white" />
-    
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+```text
+🔐 Certified Ethical Hacker (CEH v12) | Google Cybersecurity Certified
+📅 5+ years hands-on experience | 2+ years work experience in SOC operations
+🛡️ Blue Teaming & Red Teaming | Vulnerability Assessments | Incident Response
+🖥️ Proficient in Wazuh, Splunk, Zeek, Suricata, and SIEM tools
+📍 Karnataka, India | 📞 +91 9113610764
