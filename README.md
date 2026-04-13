@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=punitkumar-naik&label=Profile%20Views&color=1A6F9F&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=punitkumar35&label=Profile%20Views&color=1A6F9F&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Active%20Job%20Seeker-00C853?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-SOC%20Analyst-FF6B35?style=flat-square" />
 </p>
